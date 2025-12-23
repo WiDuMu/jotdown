@@ -35,7 +35,7 @@ export default class BlobStream extends EventTarget {
 			this.addEventListener(event, callback);
 		}
 
-		emit(event: string, otherThingIDontCareAbout: any) {
+		emit(_event: string, _otherThingIDontCareAbout: any) {
 			return false;
 		}
 

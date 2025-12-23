@@ -52,7 +52,6 @@ function main() {
     }
 
     let changeTimeout: number | undefined;
-    let bloblink: string | undefined;
 
     function render() {
         const md = editor.getValue();
