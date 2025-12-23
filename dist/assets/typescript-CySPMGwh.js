@@ -1,0 +1,1 @@
+import"./editor.api2-Bqs-6Pg_.js";import{n as e,t}from"./typescript-DNio6xkK.js";export{t as conf,e as language};
